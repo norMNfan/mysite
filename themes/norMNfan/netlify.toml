@@ -1,0 +1,7 @@
+[build]
+publish = "mysite/public"
+command = "cd mysite && hugo --gc --minify"
+
+[build.environment]
+HUGO_VERSION = "0.119.0"
+HUGO_THEME = "repo"

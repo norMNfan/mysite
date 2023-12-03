@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog Title</title>
+    <link>https://TODOD.com/posts/</link>
+    <description>Recent content in Posts on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://TODOD.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Code Review Guidelines</title>
+      <link>https://TODOD.com/posts/code-review.guide/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://TODOD.com/posts/code-review.guide/</guid>
+      <description>Hello world!</description>
+    </item>
+  </channel>
+</rss>
